@@ -2,7 +2,7 @@
 codereyes-1
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?codereyes-1=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=codereyes-1&show_icons=true)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?codereyes-1=Tanu-N-Prabhu&theme=blue-green)
 ## 3. Contributors Badge
