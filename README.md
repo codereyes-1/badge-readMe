@@ -12,4 +12,4 @@ codereyes-1
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=codereyes-1)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/codereyes-1)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/codereyes-1/python)
